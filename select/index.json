@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢の中のストーリー",
+  "base_artist": "Gothic×Luck",
+  "createdAt": "2026-03-25T08:36:57.903612Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢の中のストーリー",
+      "artist": "Gothic×Luck",
+      "has_synced": false,
+      "path": "select/pl_01_夢の中のストーリー_Gothic×Luck.txt"
+    }
+  ]
+}
